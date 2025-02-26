@@ -8,91 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9fa7cf16bb79a359",
+            "id": "f4a8078bd927c836",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Intro to Networking/Networking Topologies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "b3ae461414120313",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows Fundamentals/Important commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Important commands"
-            }
-          },
-          {
-            "id": "50db4c9d4431831f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows Fundamentals/WMI (Windows Management Instrumentation).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WMI (Windows Management Instrumentation)"
-            }
-          },
-          {
-            "id": "04e0937ce65a34af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows Fundamentals/Windows Server Core vs Desktop Experience.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Windows Server Core vs Desktop Experience"
-            }
-          },
-          {
-            "id": "b9ac08d9fc8ecab1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows Fundamentals/Windows Security.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Windows Security"
-            }
-          },
-          {
-            "id": "39c8382de350bd7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "Networking Topologies"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WSL (Windows Subsystems for Linux).md",
+                "file": "Windows Fundamentals/Windows Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for WSL (Windows Subsystems for Linux)"
+              "title": "Backlinks for Windows Security"
             }
           },
           {
@@ -213,16 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WSL (Windows Subsystems for Linux).md",
+                "file": "Windows Fundamentals/Windows Security.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of WSL (Windows Subsystems for Linux)"
+              "title": "Outline of Windows Security"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -238,20 +168,26 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dce103bbe478ce77",
+  "active": "f4a8078bd927c836",
   "lastOpenFiles": [
-    "Windows Fundamentals/Windows Server Core vs Desktop Experience.md",
-    "Windows Fundamentals/Windows Security.md",
-    "Windows Fundamentals/Interacting with Windows.md",
-    "Windows Fundamentals/WMI (Windows Management Instrumentation).md",
-    "Windows Fundamentals/WSL (Windows Subsystems for Linux).md",
-    "Windows Fundamentals/MMC (Microsoft Management Console).md",
-    "Windows Fundamentals/Important commands.md",
+    "Intro to Networking/Network Types.md",
+    "Intro to Networking/Networking Topologies.md",
+    "Intro to network traffic analysis/Network Traffic Analysis Primer.md",
+    "Network.md",
+    "Intro to Networking/What is networking.md",
+    "Intro to Networking",
     "README.md",
+    "Windows Fundamentals/Windows Security.md",
+    "Intro to network traffic analysis",
+    "Windows Fundamentals/WMI (Windows Management Instrumentation).md",
+    "Windows Fundamentals/Windows Server Core vs Desktop Experience.md",
+    "Windows Fundamentals/Important commands.md",
+    "Windows Fundamentals/MMC (Microsoft Management Console).md",
+    "Windows Fundamentals/Interacting with Windows.md",
+    "Windows Fundamentals/WSL (Windows Subsystems for Linux).md",
     "Windows Fundamentals/Welcome.md",
     "Windows Fundamentals"
   ]
